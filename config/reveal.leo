@@ -56,7 +56,7 @@
    &lt;h3&gt;&lt;p&gt;零件5:十字頭連結桿&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;p&gt;&lt;img alt="" height="264" src="/images/螢幕擷取畫面 2021-04-16 161805.png" width="500"/&gt;&lt;/p&gt;&lt;/p&gt;
     &lt;section&gt;
-    &lt;/section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="123.20210317212617.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1ZQAX20TJ0a2e95wEpq1DsAjk9vStsmRC/view?usp=sharing"&gt;齒盤&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_23.png" width="520"/&gt;&lt;/p&gt;
