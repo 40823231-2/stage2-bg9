@@ -228,13 +228,11 @@ vertical: body pane on the botton</t>
      
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-   &lt;section&gt;
    &lt;h2&gt;PDF報告&lt;/h2&gt;
- &lt;iframe data-src="協同產品產品設計實習.pdf"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+ &lt;iframe data-src="122.pdf"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
  
 &lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
-   &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
             &lt;h4&gt;。&lt;/h4&gt;
 &lt;/section&gt;</t>
