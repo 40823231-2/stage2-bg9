@@ -28,7 +28,10 @@
 <v t="123.20210317180910.1"><vh>slide 5 -4</vh></v>
 <v t="123.20210317191028.1"><vh>slide 5 -5</vh></v>
 </v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20200818171215.1"><vh>slide 6</vh>
+<v t="leo.20210420205254.1"><vh>newHeadline</vh></v>
+<v t="leo.20210420205447.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 </v>
@@ -185,7 +188,7 @@ vertical: body pane on the botton</t>
 
     &lt;link rel="stylesheet" href="dist/reset.css"&gt;
     &lt;link rel="stylesheet" href="dist/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="dist/theme/black.css" id="theme"&gt;
+    &lt;link rel="stylesheet" href="dist/theme/sky.css" id="theme"&gt;
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
@@ -230,5 +233,13 @@ vertical: body pane on the botton</t>
             &lt;h2&gt;心得&lt;/h2&gt;
             &lt;h4&gt;。&lt;/h4&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210420205254.1">&lt;section&gt;
+   &lt;section&gt;
+    &lt;h2&gt;第一次模擬&lt;/h2&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRj5TJavKwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20210420205447.1">&lt;section&gt;
+   &lt;section&gt;
+    &lt;h2&gt;第一次模擬&lt;/h2&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CUrFAMu66h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
