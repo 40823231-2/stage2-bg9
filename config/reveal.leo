@@ -214,7 +214,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
    &lt;h1&gt;原理&lt;/h1&gt;
-    &lt;h2&gt;它是利用燃燒柴油或煤炭等燃料，將鍋爐中的水加熱以產生蒸氣，再由汽缸動力經連桿傳動機構，來推動輪子使車子前進。&lt;/h2&gt;
+    &lt;h3&gt;它是利用燃燒柴油或煤炭等燃料，將鍋爐中的水加熱以產生蒸氣，再由汽缸動力經連桿傳動機構，來推動輪子使車子前進。&lt;/h3&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
@@ -234,12 +234,10 @@ vertical: body pane on the botton</t>
             &lt;h4&gt;。&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210420205254.1">&lt;section&gt;
-   &lt;section&gt;
-    &lt;h2&gt;第一次模擬&lt;/h2&gt;
+&lt;h3&gt;第一次模擬&lt;/h3&gt;
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRj5TJavKwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20210420205447.1">&lt;section&gt;
-   &lt;section&gt;
-    &lt;h2&gt;第一次模擬&lt;/h2&gt;
+ &lt;h3&gt;第二次模擬&lt;/h3&gt;
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CUrFAMu66h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
