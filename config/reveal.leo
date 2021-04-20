@@ -176,7 +176,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;stage1-bg7&lt;/title&gt;
+    &lt;title&gt;stage2-bg9&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -221,15 +221,18 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/iNM1vXS_-X0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="leo.20200818171215.1"> &lt;section&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+   &lt;section&gt;
            &lt;h2&gt;使用CoppeliaSim模擬&lt;/h2&gt;
             &lt;h5&gt;蒸汽火車模擬&lt;/h5&gt;
      
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
+   &lt;section&gt;
             &lt;h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a&gt;PDF報告&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171312.1"> &lt;section&gt;
+<t tx="leo.20200818171312.1">&lt;section&gt;
+   &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
             &lt;h4&gt;。&lt;/h4&gt;
 &lt;/section&gt;</t>
