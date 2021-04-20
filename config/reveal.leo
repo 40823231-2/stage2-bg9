@@ -228,18 +228,18 @@ vertical: body pane on the botton</t>
      
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-   &lt;section&gt;
             &lt;h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a&gt;PDF報告&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
-   &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
             &lt;h4&gt;。&lt;/h4&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210420205254.1">   &lt;section&gt;
+<t tx="leo.20210420205254.1">     &lt;/section&gt;
+            &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第一次模擬&lt;/p&gt;&lt;/h3&gt;
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRj5TJavKwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20210420205447.1">   &lt;section&gt;
+<t tx="leo.20210420205447.1">      &lt;/section&gt;
+            &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第二次模擬&lt;/p&gt;&lt;/h3&gt;
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CUrFAMu66h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
