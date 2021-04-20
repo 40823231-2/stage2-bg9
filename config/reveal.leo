@@ -252,6 +252,7 @@ vertical: body pane on the botton</t>
     
     
     
+    &lt;/section&gt;
     &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
