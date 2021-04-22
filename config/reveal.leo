@@ -59,7 +59,7 @@
    &lt;/section&gt;</t>
 <t tx="123.20210317190847.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/2.STL"&gt;零件1:車輪連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/1.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/1.png" width="430"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191027.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/bg9-3.STL"&gt;零件2:車輪&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
@@ -74,48 +74,54 @@
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/p3.STL"&gt;零件3:區拐銷&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="321" src="./../images/螢幕擷取畫面 2021-04-16 145343.png" width="500"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="123.20210422161332.1"> &lt;section&gt;
+<t tx="123.20210422161332.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/搖臂.STL"&gt;零件6:搖臂&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/6.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/6.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161333.1"> &lt;section&gt;
+<t tx="123.20210422161333.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/ㄑ字連接桿.STL"&gt;零件7:ㄑ字搖臂連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/7.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/7.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161336.1"> &lt;section&gt;
+<t tx="123.20210422161336.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/ㄑ字搖桿.STL"&gt;零件8:ㄑ字搖桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/8.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/8.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161336.2"> &lt;section&gt;
+<t tx="123.20210422161336.2">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/活塞閥.STL"&gt;零件9:活塞閥&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/9.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/9.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161336.3"> &lt;section&gt;
+<t tx="123.20210422161336.3">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/上活塞.STL"&gt;零件10:上活塞&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/10.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/10.png" width="430"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="123.20210422161337.1"> &lt;section&gt;
+<t tx="123.20210422161337.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/上活塞連接桿.STL"&gt;零件11:上活塞連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/11.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/11.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161337.2"> &lt;section&gt;
+<t tx="123.20210422161337.2">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/下活塞.STL"&gt;零件12:下活塞&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/12.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/12.png" width="430"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
-<t tx="123.20210422161337.3"> &lt;section&gt;
+<t tx="123.20210422161337.3">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/輪軸.STL"&gt;零件13:輪軸&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/13.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/13.png" width="430"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="123.20210422161338.1"> &lt;section&gt;
+<t tx="123.20210422161338.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/火車主體.STL"&gt;零件14:火車主體&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="180" src="/images/14.png" width="430"/&gt;&lt;/p&gt;
    &lt;/section&gt;
-   &lt;/section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="123.20210422165510.1">&lt;section&gt;
 
 
 
-            &lt;h4&gt;謝謝大家~~&lt;/h4&gt;
+            &lt;h1&gt;謝謝大家~~&lt;/h1&gt;
             
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
@@ -261,7 +267,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;h2&gt;蒸汽火車&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;&lt;img alt="" height="222" src="/images/STEAM TRAIN.gif" width="491"&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img alt="" height="222" src="./../images/STEAM TRAIN.gif" width="491"/&gt;&lt;/b&gt;&lt;/p&gt;
+   &lt;h2&gt;動機:&lt;/h2&gt;
+
 
 &lt;/section&gt;
 </t>
