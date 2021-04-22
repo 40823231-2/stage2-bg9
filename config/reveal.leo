@@ -40,6 +40,7 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh>
 <v t="leo.20210420205254.1"><vh>newHeadline</vh></v>
 <v t="leo.20210420205447.1"><vh>newHeadline</vh></v>
+<v t="123.20210422190537.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
@@ -124,6 +125,14 @@
             &lt;h1&gt;謝謝大家~~&lt;/h1&gt;
             
 &lt;/section&gt;</t>
+<t tx="123.20210422190537.1">   &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;第三次模擬&lt;/p&gt;&lt;/h3&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vsW6P0cVv_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    
+    
+    
+  &lt;/section&gt;
+  &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -295,7 +304,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
-            &lt;h4&gt;。&lt;/h4&gt;
+            &lt;h4&gt;從二人小組到現在的四人小組，不在像以前一樣手忙腳亂，覺得進步了許多，不光光只有自己也包括了組員，我們都還在跟彼此相互磨合，有時也會因理念上的問題發生分歧，我們每一個人都再慢慢地成長，不管是在網頁編輯或是程式模擬都相比之前更加順手，變成四人小組後效率大幅提升，討論問題時，有更多想法可以參考。希望未來八人小組的時候，延續之前的毅力把專題做好坐滿。&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210420205254.1">  &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第一次模擬&lt;/p&gt;&lt;/h3&gt;
@@ -306,13 +315,18 @@ vertical: body pane on the botton</t>
     
     
     </t>
-<t tx="leo.20210420205447.1">  &lt;section&gt;
+<t tx="leo.20210420205447.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第二次模擬&lt;/p&gt;&lt;/h3&gt;
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ItDuRrlRQUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     
     
     
   &lt;/section&gt;
-  &lt;/section&gt;</t>
+  
+    
+    
+    
+
+  </t>
 </tnodes>
 </leo_file>
