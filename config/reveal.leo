@@ -289,7 +289,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="362" src="/images/火車組合(1).png" width="600"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="362" src="./../images/火車組合(1).png" width="600"/&gt;&lt;/p&gt;
    
    &lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
