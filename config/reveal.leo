@@ -127,7 +127,7 @@
 &lt;/section&gt;</t>
 <t tx="123.20210422190537.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第三次模擬&lt;/p&gt;&lt;/h3&gt;
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vsW6P0cVv_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ItDuRrlRQUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     
     
     
@@ -317,7 +317,7 @@ vertical: body pane on the botton</t>
     </t>
 <t tx="leo.20210420205447.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第二次模擬&lt;/p&gt;&lt;/h3&gt;
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ItDuRrlRQUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vsW6P0cVv_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     
     
     
