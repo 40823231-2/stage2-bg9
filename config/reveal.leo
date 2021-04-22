@@ -115,9 +115,9 @@
    &lt;/section&gt;</t>
 <t tx="123.20210422161338.1">   &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/火車主體.STL"&gt;零件14:火車主體&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="180" src="/images/14.png" width="430"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="180" src="./../images/14.png" width="430"/&gt;&lt;/p&gt;
    &lt;/section&gt;
-&lt;/section&gt;</t>
+   &lt;/section&gt;</t>
 <t tx="123.20210422165510.1">&lt;section&gt;
 
 
