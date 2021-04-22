@@ -27,6 +27,15 @@
 <v t="123.20210317212617.1"><vh>slide 5 -3</vh></v>
 <v t="123.20210317180910.1"><vh>slide 5 -4</vh></v>
 <v t="123.20210317191028.1"><vh>slide 5 -5</vh></v>
+<v t="123.20210422161332.1"><vh>5-6</vh></v>
+<v t="123.20210422161333.1"><vh>5-7</vh></v>
+<v t="123.20210422161336.1"><vh>5-8</vh></v>
+<v t="123.20210422161336.2"><vh>5-9</vh></v>
+<v t="123.20210422161336.3"><vh>5-10</vh></v>
+<v t="123.20210422161337.1"><vh>5-11</vh></v>
+<v t="123.20210422161337.2"><vh>5-12</vh></v>
+<v t="123.20210422161337.3"><vh>5-13</vh></v>
+<v t="123.20210422161338.1"><vh>5-14</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh>
 <v t="leo.20210420205254.1"><vh>newHeadline</vh></v>
@@ -44,25 +53,62 @@
 </vnodes>
 <tnodes>
 <t tx="123.20210317180910.1">   &lt;section&gt;
-   &lt;h3&gt;&lt;p&gt;零件4:搖臂連接桿&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="322" src="/images/螢幕擷取畫面 2021-04-16 150557.png" width="500"/&gt;&lt;/p&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/p4.STL"&gt;零件4:搖臂連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="322" src="./../images/螢幕擷取畫面 2021-04-16 150557.png" width="500"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317190847.1">   &lt;section&gt;
-   &lt;h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1_poPLnTUz0GkNoZ0E0oi8XJX6x7ZnDSq/view?usp=sharing"&gt;本體&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h3&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/2.STL"&gt;零件1:車輪連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_52.png" width="520"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191027.1">   &lt;section&gt;
-   &lt;h3&gt;&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1NSG6RBehMVSLe7mhU2J2X_eWtHwuIH_A/view?usp=sharing"&gt;上蓋&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="279" src="./../images/SOLIDWORKS Premium 2017 x64 Edition - [2.SLDPRT _] 2021_3_11 下午 04_49_48.png" width="520"/&gt;&lt;/p&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/bg9-3.STL"&gt;零件2:車輪&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="188" src="./../images/螢幕擷取畫面 2021-04-15 223403.png" width="500"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191028.1">   &lt;section&gt;
-   &lt;h3&gt;&lt;p&gt;零件5:十字頭連結桿&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;p&gt;&lt;img alt="" height="264" src="/images/螢幕擷取畫面 2021-04-16 161805.png" width="500"/&gt;&lt;/p&gt;&lt;/p&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/p5.STL"&gt;零件5:十字頭連結桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="264" src="./../images/螢幕擷取畫面 2021-04-16 161805.png" width="500"/&gt;&lt;/p&gt;
    &lt;/section&gt;
-   &lt;/section&gt;</t>
+  </t>
 <t tx="123.20210317212617.1">   &lt;section&gt;
-   &lt;h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1ZQAX20TJ0a2e95wEpq1DsAjk9vStsmRC/view?usp=sharing"&gt;齒盤&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_23.png" width="520"/&gt;&lt;/p&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/p3.STL"&gt;零件3:區拐銷&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="321" src="./../images/螢幕擷取畫面 2021-04-16 145343.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161332.1"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/搖臂.STL"&gt;零件6:搖臂&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="188" src="./../images/螢幕擷取畫面 2021-04-19 221118.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161333.1"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/ㄑ字連接桿.STL"&gt;零件7:ㄑ字搖臂連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="187" src="./../images/螢幕擷取畫面 2021-04-19 221222.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161336.1"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/ㄑ字搖桿.STL"&gt;零件8:ㄑ字搖桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="187" src="./../images/螢幕擷取畫面 2021-04-19 221427.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161336.2"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/活塞閥.STL"&gt;零件9:活塞閥&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="182" src="./../images/螢幕擷取畫面 2021-04-19 221528.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161336.3"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/上活塞.STL"&gt;零件10:上活塞&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="186" src="./../images/螢幕擷取畫面 2021-04-19 221915.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161337.1"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/上活塞連接桿.STL"&gt;零件11:上活塞連接桿&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="186" src="./../images/螢幕擷取畫面 2021-04-19 221756.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161337.2"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/下活塞.STL"&gt;零件12:下活塞&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="188" src="./../images/螢幕擷取畫面 2021-04-19 221656.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161337.3"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/輪軸.STL"&gt;零件13:輪軸&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="187" src="./../images/螢幕擷取畫面 2021-04-19 222049.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210422161338.1"> &lt;section&gt;
+   &lt;h3&gt;&lt;p&gt;&lt;a href="./../downloads/火車主體.STL"&gt;零件14:火車主體&lt;/a&gt;&lt;/p&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="189" src="./../images/螢幕擷取畫面 2021-04-19 222007.png" width="500"/&gt;&lt;/p&gt;
+   &lt;/section&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
@@ -226,7 +272,7 @@ vertical: body pane on the botton</t>
            &lt;h2&gt;使用CoppeliaSim模擬&lt;/h2&gt;
             &lt;h5&gt;蒸汽火車模擬&lt;/h5&gt;
      
-&lt;/section&gt;</t>
+  &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
    &lt;h2&gt;PDF報告&lt;/h2&gt;
  &lt;iframe data-src="122.pdf"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
@@ -241,18 +287,17 @@ vertical: body pane on the botton</t>
     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HRj5TJavKwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     
     
-    
-    &lt;/section&gt;
+  &lt;/section&gt;
     
     
     </t>
-<t tx="leo.20210420205447.1">&lt;section&gt;
+<t tx="leo.20210420205447.1">  &lt;section&gt;
    &lt;h3&gt;&lt;p&gt;第二次模擬&lt;/p&gt;&lt;/h3&gt;
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CUrFAMu66h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ItDuRrlRQUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     
     
     
-    &lt;/section&gt;
-    &lt;/section&gt;</t>
+  &lt;/section&gt;
+  &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
