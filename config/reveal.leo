@@ -268,7 +268,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;h2&gt;蒸汽火車&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;&lt;img alt="" height="222" src="./../images/STEAM TRAIN.gif" width="491"/&gt;&lt;/b&gt;&lt;/p&gt;
-   &lt;h2&gt;動機:&lt;/h2&gt;
+   &lt;h3&gt;動機:探討連桿配合活塞運動，每個零件都配的剛好。&lt;/h3&gt;
 
 
 &lt;/section&gt;
